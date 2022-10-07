@@ -1,3 +1,28 @@
-.title {
-    font-size: 100px;
+* {
+    background: rgb(150, 149, 149);
+
+}
+
+
+.box {
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #ffffff;
+    padding: 30px;
+    color: white;
+    
+
+
+
+}
+
+.box p {
+    font-size: 18px;
+}
+
+.box h1 {
+    font-size: 40px;
 }
